@@ -35,3 +35,15 @@ Here are some ideas to get you started:
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bekir-Akok&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+<hr>
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/bekir-akok/" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:bekir.akok@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bekir.akok@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Bekir-Akok" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+  
+<Br>
+<hr>
